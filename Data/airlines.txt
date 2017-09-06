@@ -15,6 +15,7 @@ The data is ISO 8859-1 (Latin-1) encoded. The special value \N is used for "NULL
 Notes: Airlines with null codes/callsigns/countries generally represent user-added airlines. Since the data is intended primarily for current flights, defunct IATA codes are generally not included. For example, "Sabena" is not listed with a SN IATA code, since "SN" is presently used by its successor Brussels Airlines.
 Sample entries
 
-324,"All Nippon Airways","ANA All Nippon Airways","NH","ANA","ALL NIPPON","Japan","Y"
-412,"Aerolineas Argentinas",\N,"AR","ARG","ARGENTINA","Argentina","Y"
+224 "adding new line"
+324,"All Nippon Airways","ANA All Nippon Airways","NH","ANA","ALL NIPPON","Japan","Y", "editing this line"
+
 413,"Arrowhead Airways",\N,"","ARH","ARROWHEAD","United States","N"
